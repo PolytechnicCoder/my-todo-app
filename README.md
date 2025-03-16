@@ -18,7 +18,8 @@ Simple and intuitive Streamlit user interface.
 
 Main Interface
 
-![todo](https://github.com/user-attachments/assets/0ef7a190-9899-4290-9f21-edaf42bad553)
+
+![todo](https://github.com/user-attachments/assets/faf98ed5-9d30-4d03-ae38-c22936c3dc33)
 
 
 🛠 Technologies Used
